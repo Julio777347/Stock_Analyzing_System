@@ -50,6 +50,12 @@
             <version>4.0.0-alpha.6</version>
         </dependency>
 
+            <dependency>
+                <groupId>org.mongodb</groupId>
+                <artifactId>mongodb-driver</artifactId>
+                <version>3.4.2</version>
+            </dependency>
+
         <!--&lt;!&ndash; https://mvnrepository.com/artifact/org.python/jython-standalone &ndash;&gt;-->
         <!--<dependency>-->
             <!--<groupId>org.python</groupId>-->
